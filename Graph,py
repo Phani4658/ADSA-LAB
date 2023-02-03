@@ -1,4 +1,4 @@
-class Graph():
+class Graph:
  def _init_(self, vertices):
  self.V = vertices
  self.graph = [[0 for column in range(vertices)]
